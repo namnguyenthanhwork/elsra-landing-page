@@ -8,14 +8,6 @@ Built with `CSS Grid, HTML, JS, Google Fonts, Font Awesome`
 
 ## Files structure
 
-├── css/
-├── images/
-├── js/
-├── webfonts/  
-├── .prettierrc
-├── \*.html
-├── README.md
-
 -   css/styles.css custom css styling
 -   images folder contains all the images
 -   js/scripts.js custom js code
